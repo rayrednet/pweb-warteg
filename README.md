@@ -4,3 +4,5 @@
 | Name           | NRP        | Kelas     | Tahun Ajaran      |
 | ---            | ---        | ----------|---                |
 | Rayssa Ravelia | 5025211219 |PWEB A     | 2022/2023 (Genap) |
+
+Link deploy : [deploy](https://pweb-warteg.vercel.app/)
